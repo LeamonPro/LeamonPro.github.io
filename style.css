@@ -439,24 +439,24 @@ section .title::after {
     background: crimson;
 }
 
-.skills-content .right .html::before {
+.skills-content .right .python::before {
     width: 70%;
 }
 
-.skills-content .right .css::before {
+.skills-content .right .javascript::before {
     width: 60%;
 }
 
-.skills-content .right .js::before {
-    width: 70%;
+.skills-content .right .sql::before {
+    width: 60%;
 }
 
-.skills-content .right .php::before {
+.skills-content .right .java::before {
     width: 50%;
 }
 
-.skills-content .right .mysql::before {
-    width: 40%;
+.skills-content .right .photoshop::before {
+    width: 20%;
 }
 
 
